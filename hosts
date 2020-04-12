@@ -1,11 +1,7 @@
 [web]
-52.66.250.179
-
-
-
-
+52.66.250.179 ansible_ssh_user=centos
 [dev]
-35.154.15.25
+35.154.15.25 ansible_ssh_user=centos
 
 
 [all:vars]
