@@ -1,0 +1,13 @@
+[web]
+52.66.250.179
+
+
+
+
+[dev]
+35.154.15.25
+
+
+[all:vars]
+
+ansible_ssh_private_key_file=test.pem
