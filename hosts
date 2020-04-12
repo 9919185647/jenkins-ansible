@@ -1,9 +1,7 @@
 [web]
-52.66.250.179 ansible_ssh_user=centos
+52.66.250.179 ansible_ssh_pass=sdvqk4tp  ansible_ssh_user=centos
 [dev]
-35.154.15.25 ansible_ssh_user=centos
+35.154.15.25 ansible_ssh_pass=sdvqk4tp ansible_ssh_user=centos
 
 
-[all:vars]
 
-ansible_ssh_pass=sdvqk4tp
